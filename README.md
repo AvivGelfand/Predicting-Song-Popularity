@@ -2,9 +2,7 @@
 
 ![Spotify](https://i.imgur.com/lyd42DA.png)
 
-Welcome to the Spotify Song Popularity Prediction project readme! This project is designed to help you gain valuable experience and demonstrate your skills as you apply for an internship at Microsoft. In this project, you will explore a dataset containing information about Spotify songs and build models to predict the popularity of these songs.
-
-## Introduction
+Welcome to the Spotify Song Popularity Prediction project readme! 
 
 In this project, we will work with a sample of 10,000 records from the "Spotify Dataset 1921-2020, 600k+ Tracks," available on Kaggle. Our goal is to predict the popularity of songs on the Spotify platform, which is represented as a float ranging from 0 to 100.
 
