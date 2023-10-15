@@ -1,7 +1,5 @@
 # Spotify Song Popularity Prediction
 
-![Spotify](https://i.imgur.com/lyd42DA.png)
-
 Welcome to the Spotify Song Popularity Prediction project readme! 
 
 In this project, we will work with a sample of 10,000 records from the "Spotify Dataset 1921-2020, 600k+ Tracks," available on Kaggle. Our goal is to predict the popularity of songs on the Spotify platform, which is represented as a float ranging from 0 to 100.
