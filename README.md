@@ -54,7 +54,7 @@ We evaluate our models using various metrics, including:
 
 ### Model Tuning
 
-We perform hyperparameter tuning for the XGBoost Regressor and Random Forest Regressor to optimize their performance.
+To optimize their performance, we perform hyperparameter tuning for the XGBoost Regressor and Random Forest Regressor.
 
 ## Getting Started
 
@@ -67,11 +67,11 @@ To run this project, you will need Python and the following libraries installed:
 - Scikit-Learn
 - XGBoost
 
-You can clone this repository and run the provided code in a Jupyter notebook or any Python environment.
+You can clone this repository and run the provided code in a Jupyter Notebook or any Python environment.
 
 ## Conclusion
 
-This project is an excellent opportunity for you to demonstrate your data analysis, preprocessing, model building, and evaluation skills. By working through this project, you can showcase your ability to handle real-world data and make predictions. Good luck with your internship application at Microsoft!
+This project was an excellent opportunity to sharpen my data analysis, preprocessing, model building, and evaluation skills. 
 
 For any questions or assistance, feel free to reach out.
 
